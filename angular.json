@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "first-ng-app"
+  "defaultProject": "first-ng-app",
+  "cli": {
+    "analytics": false
+  }
 }
